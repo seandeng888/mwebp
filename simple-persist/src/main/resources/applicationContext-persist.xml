@@ -54,4 +54,7 @@
     <bean id="weatherDAO" class="org.sonatype.mavenbook.weather.persist.WeatherDAO">
         <property name="sessionFactory" ref="sessionFactory"/>
     </bean>
+    <bean id="seandengDAO" class="org.seandeng.persist.jdbc.SeandengDAO">
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
  </beans>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.343" errors="0" skipped="0" tests="1" name="org.sonatype.mavenbook.weather.yahoo.YahooParserTest">
+<testsuite failures="0" time="0.299" errors="0" skipped="0" tests="1" name="org.sonatype.mavenbook.weather.yahoo.YahooParserTest">
   <properties>
-    <property name="idea.version" value="13.1.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_10\jre\bin"/>
     <property name="java.vm.version" value="11.0-b15"/>
@@ -11,7 +10,6 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7538"/>
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
@@ -37,11 +35,10 @@
     <property name="user.home" value="C:\Users\myuser"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="GBK"/>
     <property name="java.specification.version" value="1.6"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="idea.launcher.bin.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 13.1.1\bin"/>
     <property name="user.name" value="myuser"/>
-    <property name="java.class.path" value="Z:\apache-maven-3.0.5\boot\plexus-classworlds-2.4.jar;C:\Program Files\JetBrains\IntelliJ IDEA 13.1.1\lib\idea_rt.jar"/>
+    <property name="java.class.path" value="Z:\apache-maven-3.0.5\boot\plexus-classworlds-2.4.jar"/>
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_10\jre"/>
@@ -61,5 +58,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.312" classname="org.sonatype.mavenbook.weather.yahoo.YahooParserTest" name="testParser"/>
+  <testcase time="0.287" classname="org.sonatype.mavenbook.weather.yahoo.YahooParserTest" name="testParser"/>
 </testsuite>

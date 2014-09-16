@@ -23,6 +23,7 @@
           <element id="library" level="project" name="Maven: cglib:cglib:2.1_3" />
           <element id="library" level="project" name="Maven: asm:asm:1.5.3" />
           <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
+          <element id="library" level="project" name="Maven: oarcle:odbc:1.4.0" />
           <element id="archive" name="simple-weather-1-SNAPSHOT.jar">
             <element id="module-output" name="simple-weather" />
           </element>

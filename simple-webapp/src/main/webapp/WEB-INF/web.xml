@@ -9,6 +9,7 @@
     <param-value>
       classpath:applicationContext-weather.xml
       classpath:applicationContext-persist.xml
+        classpath:applicationContext-ds.xml
     </param-value>
   </context-param>
   
