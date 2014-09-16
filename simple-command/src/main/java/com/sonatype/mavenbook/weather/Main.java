@@ -1,8 +1,9 @@
-package org.sonatype.mavenbook.weather;
+package com.sonatype.mavenbook.weather;
 
 import java.util.List;
 
 import org.apache.log4j.PropertyConfigurator;
+import org.sonatype.mavenbook.weather.WeatherService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

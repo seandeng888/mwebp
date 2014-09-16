@@ -60,9 +60,14 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring</artifactId>
     </dependency>
+      <dependency>
+          <groupId>oarcle</groupId>
+          <artifactId>odbc</artifactId>
+          <version>1.4.0</version>
+      </dependency>
     <dependency>
       <groupId>org.apache.velocity</groupId>
       <artifactId>velocity</artifactId>
-    </dependency>    
+    </dependency>
   </dependencies>
 </project>

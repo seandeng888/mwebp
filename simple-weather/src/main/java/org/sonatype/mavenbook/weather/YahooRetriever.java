@@ -12,9 +12,9 @@ public class YahooRetriever {
 
 	public InputStream retrieve(String zipcode) throws Exception {
 		log.info( "Retrieving Weather Data" );
-		String url = "http://weather.yahooapis.com/forecastrss?p=" + zipcode;
-		URLConnection conn = new URL(url).openConnection();
-		return conn.getInputStream();
+        String url = "http://weather.yahooapis.com/forecastrss?p=" + zipcode;
+        URLConnection conn = new URL(url).openConnection();
+        return conn.getInputStream();
 	}
 
 }
