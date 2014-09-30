@@ -9,7 +9,7 @@
   <artifactId>simple-persist</artifactId>
   <packaging>jar</packaging>
 
-  <name>Chapter 8 Simple Persistence API</name>
+  <name>Simple Persistence API</name>
 
   <dependencies>
     <dependency>
