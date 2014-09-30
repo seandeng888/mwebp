@@ -9,7 +9,7 @@
 
   <artifactId>simple-command</artifactId>
   <packaging>jar</packaging>
-  <name>Chapter 8 Simple Command Line Tool</name>
+  <name>Simple Command Line Tool</name>
 
   <build>
     <pluginManagement>
