@@ -9,7 +9,7 @@
   <artifactId>simple-weather</artifactId>
   <packaging>jar</packaging>
 
-  <name>Chapter 8 Simple Weather API</name>
+  <name>Simple Weather API</name>
 
   <dependencies>
     <dependency>
