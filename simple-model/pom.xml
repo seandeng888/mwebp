@@ -9,7 +9,7 @@
   <artifactId>simple-model</artifactId>
   <packaging>jar</packaging>
 
-  <name>Chapter 8 Simple Object Model</name>
+  <name>Simple Object Model</name>
 
   <dependencies>
     <dependency>
