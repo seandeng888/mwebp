@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.sonatype.mavenbook.ch08</groupId>
+  <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>simple-parent</artifactId>
   <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Chapter 8 Simple Parent Project</name>
+  <name>Simple Parent Project</name>
  
   <modules>
     <module>simple-command</module>
@@ -13,6 +13,7 @@
     <module>simple-weather</module>
     <module>simple-persist</module>
     <module>simple-webapp</module>
+      <module>log4j-dsc</module>
   </modules>
 
   <build>
