@@ -9,7 +9,7 @@
 
   <artifactId>simple-webapp</artifactId>
   <packaging>war</packaging>
-  <name>Chapter 8 Simple Web Application</name>
+  <name>Simple Web Application</name>
   <dependencies>
     <dependency>
       <groupId>org.apache.geronimo.specs</groupId>
